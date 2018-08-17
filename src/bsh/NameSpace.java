@@ -1,3 +1,5 @@
+// Modifications copyright (C) 2018 Elinow
+
 /*****************************************************************************
  *                                                                           *
  *  This file is part of the BeanShell Java Scripting distribution.          *
